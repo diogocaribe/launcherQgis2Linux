@@ -1,4 +1,4 @@
-# Laucher Qgis2
+# Launcher Qgis2
 
 After install Qgis with Miniconda in home system, you can create the launcher to Qgis2 in order to run it in Ubuntu without open terminal.
 
