@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=Qgis2
+Comment=Qgis2
+Exec=bash -c 'export PATH="/home/dogosousa/miniconda2/bin:$PATH" && /home/dogosousa/miniconda2/bin/qgis'
+Icon=/home/dogosousa/miniconda2/share/qgis/images/icons/qgis-icon-60x60.png
+Terminal=false
+Type=Application
+Name[en_US]=Qgis2
